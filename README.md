@@ -6,21 +6,21 @@ This project presents an interactive sales performance dashboard built using Mic
 
 # Dashboard Features
 
-KPI Cards: Current month transactions, profit, and returns.
+**KPI Cards**: Current month transactions, profit, and returns.
 
-Product Analysis: Quantity sold by product brand.
+**Product Analysis**: Quantity sold by product brand.
 
-Store Analysis: Transactions by country, state, and city.
+**Store Analysis**: Transactions by country, state, and city.
 
-Profitability Analysis: Total profit, profit margin, and return rate by product brand.
+**Profitability Analysis**: Total profit, profit margin, and return rate by product brand.
 
-Revenue Trends: Weekly revenue analysis.
+**Revenue Trends**: Weekly revenue analysis.
 
-Revenue vs Target: Gauge visual to compare revenue against the target.
+**Revenue vs Target**: Gauge visual to compare revenue against the target.
 
-Interactive Filtering: Country slicer and visual interactions.
+**Interactive Filtering**: Country slicer and visual interactions.
 
-Bookmarks and Notes: Saved report views with navigation buttons.
+**Bookmarks and Notes**: Saved report views with navigation buttons.
 
 # Tools and Skills
 
