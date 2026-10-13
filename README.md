@@ -50,7 +50,7 @@ This project presents an interactive sales performance dashboard built using Mic
 
 # Project Files
 
-Maven_Market_Dashboard.pbix — Power BI report file.
+maven_market.pbix — Power BI report file.
 
 dashboard_screenshot.png — Dashboard preview.
 
